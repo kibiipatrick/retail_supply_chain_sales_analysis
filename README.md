@@ -26,7 +26,7 @@ Dataset: [Retail Supply Chain Sales (Kaggle)](https://www.kaggle.com/datasets/sh
  
 
  ### SQL Scripts
-- **Data Cleaning and EDA:** *([Link](https://github.com/kibiipatrick/))*
+- **Data Cleaning and EDA:** *([Link](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/retail_supply_chain_sales_queries.sql))*
 
 ---
 
@@ -56,7 +56,7 @@ Dataset: [Retail Supply Chain Sales (Kaggle)](https://www.kaggle.com/datasets/sh
 
 - The Consumer segment leads in both total sales and number of orders, while Home Office ranks third. 
 
-![Sales Distribution Map](https://github.com/kibiipatrick/)
+![Sales Distribution Map](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/screenshots/sales%20distribution%20map.png)
 
 ## **2. Product Performance**
 - The **Canon imageCLASS 2200 Advanced Copier** appears frequently as a top-selling product in multiple months and years
@@ -83,8 +83,7 @@ Dataset: [Retail Supply Chain Sales (Kaggle)](https://www.kaggle.com/datasets/sh
 
 - Longer shipping times may correlate with lower customer satisfaction in some segments.
 
-![Performance & Fullfilment Overview Dashboard](https://github.com/kibiipatrick/)
-
+![Performance & Fullfilment Overview Dashboard](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/screenshots/performance%20and%20fullfillment%20dashboard.png)
 
 ---
 
