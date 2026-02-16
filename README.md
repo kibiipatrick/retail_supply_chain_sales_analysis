@@ -1,7 +1,7 @@
 # Retail Supply Chain Sales Analysis | USA
 
 ## Overview
-This project analyzes **9,994 rows and 23 columns** of Retail Sales Data using **Tableau, SQL & Python**.  
+This project analyzes **9,994 rows and 23 columns** of Retail Supply Chain Sales Data using **Tableau, SQL & Python**.  
 
 The analysis explores:
 
