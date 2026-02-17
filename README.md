@@ -28,6 +28,8 @@ Dataset: [Retail Supply Chain Sales (Kaggle)](https://www.kaggle.com/datasets/sh
  ### SQL Scripts
 - **Data Cleaning and EDA:** *([Link](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/sql%20files/retail_supply_chain_sales_queries.sql))*
 
+ ### Pyhton Scripts
+- **Data Cleaning and EDA:** *([Link](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/sql%20files/retail_supply_chain_sales_queries.sql))*
 ---
 
 # Summary of Findings
