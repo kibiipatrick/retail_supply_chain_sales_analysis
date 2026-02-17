@@ -8,7 +8,7 @@ The analysis explores:
 - Market and geographic distribution of sales.
 - Product performance across categories and sub-categories
 - Sales trends over time
-- Shipping duration and fulfillment performance
+- Shipping duration and fulfilment performance
 
 The goal is to identify patterns and opportunities for data-driven decision-making and market expansion.
 
@@ -26,7 +26,7 @@ Dataset: [Retail Supply Chain Sales (Kaggle)](https://www.kaggle.com/datasets/sh
  
 
  ### SQL Scripts
-- **Data Cleaning and EDA:** *([Link](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/retail_supply_chain_sales_queries.sql))*
+- **Data Cleaning and EDA:** *([Link](https://github.com/kibiipatrick/retail_supply_chain_sales_analysis/blob/main/sql%20files/retail_supply_chain_sales_queries.sql))*
 
 ---
 
@@ -76,7 +76,7 @@ Dataset: [Retail Supply Chain Sales (Kaggle)](https://www.kaggle.com/datasets/sh
   - **Machines**
   Tables consistently generate the largest losses, recording approximately -$8K in 2017.
 
-## **4. Shipping and Fullfillment Trends**
+## **4. Shipping and Fulfilment Trends**
 - The overall average shipping duration is 35 days.
 
 - Significant variation exists across states, product categories, and shipping modes.
